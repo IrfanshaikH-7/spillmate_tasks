@@ -129,7 +129,7 @@ footer {
 }
 
 
-@media (min-width: 906px) {
+@media (min-width: 930px) {
     main{
         height: 100vh;
         max-width: 1180px
